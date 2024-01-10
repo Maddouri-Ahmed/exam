@@ -1,4 +1,4 @@
 package com.example.examenahmed.Entity;
 
-public class Exemple {
+public interface Exemple {
 }
